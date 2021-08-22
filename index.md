@@ -17,14 +17,6 @@ Es esencial transitar al uso de energías limpias en México, para poder empezar
 
 
 ```markdown
-ODS - Energía asequible y no contaminante
-
-- Ante una sociedad insaciable, la ONU creó los Objetivos de Desarrollo Sostenible (ODS) que se establecieron dentro del plan de acción de la Agenda 2030, con la esperanza de acabar con la pobreza y desigualdad global, además de proteger el medio ambiente.
-- Las energías limpias o verdes tienen que ser más accesibles para todos, pues son necesarias tanto para evitar el incremento del cambio climático, como para reducir la contaminación ambiental y mitigar las enfermedades asociadas a la polución, se tiene que cambiar el modelo energético basado en los recursos fósiles. Además, gran parte de la población mundial no puede realizar sus necesidades básicas debido a la falta de accesibilidad energética, limitándoles sus oportunidades.
-
-Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo principal de ser accesible a la sociedad, al ser un tipo de energía renovable la reducción de gases de efecto invernadero será notoria tras su instalación, contribuyendo al cambio climatica y por ultimo nuestro ideal es una trasnicion y accesibilidad energética equitativa donde todos tengan la oportunidad de aprovechar sus beneficios, en este caso desde cargar sus dispositivos, usar luminarias, e incluso conectarse a la red Wi-Fi local, todo esto con el uso de energía solar.
-
-
 ¿Cómo lo llevaremos a cabo?
 
 - B
@@ -35,9 +27,17 @@ Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo princ
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### ODS - Energía asequible y no contaminante
+
+- Ante una sociedad insaciable, la ONU creó los Objetivos de Desarrollo Sostenible (ODS) que se establecieron dentro del plan de acción de la Agenda 2030, con la esperanza de acabar con la pobreza y desigualdad global, además de proteger el medio ambiente.
+- Las energías limpias o verdes tienen que ser más accesibles para todos, pues son necesarias tanto para evitar el incremento del cambio climático, como para reducir la contaminación ambiental y mitigar las enfermedades asociadas a la polución, se tiene que cambiar el modelo energético basado en los recursos fósiles. Además, gran parte de la población mundial no puede realizar sus necesidades básicas debido a la falta de accesibilidad energética, limitándoles sus oportunidades.
+
+Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo principal de ser accesible a la sociedad, al ser un tipo de energía renovable la reducción de gases de efecto invernadero será notoria tras su instalación, contribuyendo al cambio climatica y por ultimo nuestro ideal es una trasnicion y accesibilidad energética equitativa donde todos tengan la oportunidad de aprovechar sus beneficios, en este caso desde cargar sus dispositivos, usar luminarias, e incluso conectarse a la red Wi-Fi local, todo esto con el uso de energía solar.
+
+
 ### Métodologia y resultados 
 
-<iframe width="560" height="315" src="https://youtu.be/cxNuCP9FXVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/cxNuCP9FXVk 
 
 ### Conclusiones
 
