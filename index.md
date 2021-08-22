@@ -7,6 +7,7 @@ México es reconocido por tener precios récord de energía solar, además de un
 
 El sector movilidad en nuestra ciudad es enorme y en constante crecimiento, por lo que planteamos la instalación de estos dispositivos fotovoltaicos en techos de estaciones de Metrobús, contribuyendo en su uso para centros de carga de equipos electrónicos, elevando la calidad del servicio ofrecido a usuario, su aprovechamiento para alimentar luminarias circundantes y por último la interconexión del sobrante de producción eléctrica al sistema de CFE de la CDMX, aliviando la carga y variabilidad del mismo.
 
+<img src="Logo_CdeCMx.png" width=200> 
 
 ### ¿Por qué es importante un proyecto de esta naturaleza?
 
