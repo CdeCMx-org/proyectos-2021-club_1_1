@@ -25,11 +25,12 @@ Es esencial transitar al uso de energías limpias en México, para poder empezar
 - Financiamento publico y privado
 - Apoyo interdisciplinario
 
+![image](https://user-images.githubusercontent.com/89056840/130340192-4430663d-b15f-405d-8ea7-36e291c02142.png)
+![image](https://user-images.githubusercontent.com/89056840/130340243-466bbc6e-594c-46ba-9a95-ef9f523ede94.png)
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### ODS - Energía asequible y no contaminante
 
@@ -45,9 +46,14 @@ Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo princ
 
 ### Conclusiones
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Desde el análisis de los ODS conllevo una profunda reflexión, que fue de la mano con el conocimiento empírico obtenido en tan valiosas sesiones del uso y aprovechamiento de la energía solar. Las ultimas generaciones han sufrido los embates del uso por décadas de combustibles fósiles, lo que han llevado a las generaciones actuales en todo ámbito como lo son laborales, científicas, estudiantiles, etc., a plantearse medidas para revertir y aminorar lo anterior dicho.
+Nos hemos llevado un gran aprendizaje tanto académico como social, y no solo debe quedar en una idea, se debe buscar la aplicación de los proyectos, buscando a las instancias adecuadas para ello. Por que como bien dice la frase
+“Una sociedad que no reconoce sus debilidades, no aprovechara sus oportunidades”. Y es el momento de las generaciones actuales el cambiar no solo el rumbo del país, si no de todo el planeta.
+
 
 ### Agradecimientos 
+
+A todo el esfuerzo puesto por organizadores, voluntarios, docentes y participantes de la edición 2021.
 
 ![](Logo_CdeCMx.png) 
 ![image](https://user-images.githubusercontent.com/89056840/130339600-d9a8d15e-bdde-40c5-9ed9-84ca2c5f4d4a.png)
