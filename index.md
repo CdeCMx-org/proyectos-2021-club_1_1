@@ -8,6 +8,7 @@ México es reconocido por tener precios récord de energía solar, además de un
 El sector movilidad en nuestra ciudad es enorme y en constante crecimiento, por lo que planteamos la instalación de estos dispositivos fotovoltaicos en techos de estaciones de Metrobús, contribuyendo en su uso para centros de carga de equipos electrónicos, elevando la calidad del servicio ofrecido a usuario, su aprovechamiento para alimentar luminarias circundantes y por último la interconexión del sobrante de producción eléctrica al sistema de CFE de la CDMX, aliviando la carga y variabilidad del mismo.
 
 ![](Logo_CdeCMx.png) 
+<img src="Logo_CdeCMx.png" width=200> 
 
 ### ¿Por qué es importante un proyecto de esta naturaleza?
 
@@ -15,13 +16,13 @@ Es esencial transitar al uso de energías limpias en México, para poder empezar
 
 
 ```markdown
-ODS - Energía asequible y no contaminante
+### ODS - Energía asequible y no contaminante
 
 # Header 1
 ## Header 2
 ### Header 3
 
-¿Cómo lo llevaremos a cabo?
+### ¿Cómo lo llevaremos a cabo?
 
 - Bulleted
 - List
@@ -32,10 +33,12 @@ ODS - Energía asequible y no contaminante
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Métodologia y resultados 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CdeCMx-org/proyectos-2021-club_1_1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Conclusiones
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Agradecimientos 
