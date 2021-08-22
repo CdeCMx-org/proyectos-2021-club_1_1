@@ -37,7 +37,7 @@ Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo princ
 
 ### Métodologia y resultados 
 
-https://youtu.be/cxNuCP9FXVk 
+<iframe width="560" height="315" src=https://youtu.be/cxNuCP9FXVk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusiones
 
