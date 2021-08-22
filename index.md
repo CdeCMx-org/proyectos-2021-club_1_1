@@ -5,15 +5,16 @@ Existen múltiples zonas de oportunidad que podemos aprovechar en una gran urbe 
 
 México es reconocido por tener precios récord de energía solar, además de una posición geográfica envidiada por su alta capacidad de irradiancia solar. Por esto y por muchos factores más aplicables a una transición energética mundial, hemos decidido aprovechar espacios públicos para la implementación de un recurso fundamental hoy en día, como son los paneles solares. 
 
-El sector movilidad en nuestra ciudad es enorme y en constante crecimiento, por lo que planteamos la instalación de estos en techos de estaciones de Metrobús, contribuyendo en su uso para centros de carga de equipos electrónicos, elevando la calidad del servicio ofrecido a usuario, su aprovechamiento para alimentar luminarias circundantes y por último la interconexión del sobrante de producción eléctrica al sistema eléctrico de la CDMX, aliviando la carga y variabilidad del mismo.
+El sector movilidad en nuestra ciudad es enorme y en constante crecimiento, por lo que planteamos la instalación de estos dispositivos fotovoltaicos en techos de estaciones de Metrobús, contribuyendo en su uso para centros de carga de equipos electrónicos, elevando la calidad del servicio ofrecido a usuario, su aprovechamiento para alimentar luminarias circundantes y por último la interconexión del sobrante de producción eléctrica al sistema de CFE de la CDMX, aliviando la carga y variabilidad del mismo.
 
 
-### Markdown
+### ¿Por qué es importante un proyecto de esta naturaleza?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es esencial transitar al uso de energías limpias en México, para poder empezar a revertir los daños provocados por la quema de hidrocarburos. Y que mejor que aplicarlo en zonas de alto transito en la vida diaria de los citadinos, además de ser un proyecto con miras a crecimiento a más áreas del sector transporte, haciéndolo así no solo un proyecto de energía solar, si no uno de movilidad integrada sustentable.
+
 
 ```markdown
-Syntax highlighted code block
+ODS - Energía asequible y no contaminante
 
 # Header 1
 ## Header 2
