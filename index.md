@@ -1,8 +1,12 @@
 ## **Sustainable Station Bus SSB** 
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_1_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El consumo eléctrico en grandes ciudades contribuye a la quema desmesurada de combustibles fósiles para abastecer las necesidades básicas de su sociedad. Derivado a esto la calidad de aire, suelo y vida de los habitantes se han visto demeritadas con el paso de los años. Además de una curva creciente en la población que acentúa estas problemáticas.
+Existen múltiples zonas de oportunidad que podemos aprovechar en una gran urbe como la CDMX, y ahí es donde entra nuestro proyecto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+México es reconocido por tener precios récord de energía solar, además de una posición geográfica envidiada por su alta capacidad de irradiancia solar. Por esto y por muchos factores más aplicables a una transición energética mundial, hemos decidido aprovechar espacios públicos para la implementación de un recurso fundamental hoy en día, como son los paneles solares. 
+
+El sector movilidad en nuestra ciudad es enorme y en constante crecimiento, por lo que planteamos la instalación de estos en techos de estaciones de Metrobús, contribuyendo en su uso para centros de carga de equipos electrónicos, elevando la calidad del servicio ofrecido a usuario, su aprovechamiento para alimentar luminarias circundantes y por último la interconexión del sobrante de producción eléctrica al sistema eléctrico de la CDMX, aliviando la carga y variabilidad del mismo.
+
 
 ### Markdown
 
