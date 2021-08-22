@@ -25,12 +25,9 @@ Es esencial transitar al uso de energías limpias en México, para poder empezar
 - Financiamento publico y privado
 - Apoyo interdisciplinario
 
+```
 ![image](https://user-images.githubusercontent.com/89056840/130340192-4430663d-b15f-405d-8ea7-36e291c02142.png)
 ![image](https://user-images.githubusercontent.com/89056840/130340243-466bbc6e-594c-46ba-9a95-ef9f523ede94.png)
-
-
-```
-
 
 ### ODS - Energía asequible y no contaminante
 
@@ -49,6 +46,10 @@ Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo princ
 Desde el análisis de los ODS conllevo una profunda reflexión, que fue de la mano con el conocimiento empírico obtenido en tan valiosas sesiones del uso y aprovechamiento de la energía solar. Las ultimas generaciones han sufrido los embates del uso por décadas de combustibles fósiles, lo que han llevado a las generaciones actuales en todo ámbito como lo son laborales, científicas, estudiantiles, etc., a plantearse medidas para revertir y aminorar lo anterior dicho.
 Nos hemos llevado un gran aprendizaje tanto académico como social, y no solo debe quedar en una idea, se debe buscar la aplicación de los proyectos, buscando a las instancias adecuadas para ello. Por que como bien dice la frase
 “Una sociedad que no reconoce sus debilidades, no aprovechara sus oportunidades”. Y es el momento de las generaciones actuales el cambiar no solo el rumbo del país, si no de todo el planeta.
+
+Si quieres saber mas del tema no olvides seguir este enlace : https://docs.google.com/document/d/1CEoXK4hXl1b5wj2s8MIkUL3QcYC5gZHfm6fOzyWghQM/edit?usp=sharing 
+
+![IMG_20210821_215818](https://user-images.githubusercontent.com/89056840/130340453-b29acf98-4d0f-4698-aff6-d634c29609f0.jpg)
 
 
 ### Agradecimientos 
