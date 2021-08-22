@@ -19,7 +19,11 @@ Es esencial transitar al uso de energías limpias en México, para poder empezar
 ```markdown
 ¿Cómo lo llevaremos a cabo?
 
-- B
+- Aprendizaje aplicado durante los Clubes de Ciencia
+- Estudios de impacto (encuestas)
+- Regulaciones ante CFE
+- Financiamento publico y privado
+- Apoyo interdisciplinario
 
 
 [Link](url) and ![Image](src)
@@ -37,7 +41,7 @@ Nuestro proyecto al implementarlo en áreas publicas garantiza el objetivo princ
 
 ### Métodologia y resultados 
 
-<iframe width="560" height="315" src=https://youtu.be/cxNuCP9FXVk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/cxNuCP9FXVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusiones
 
